@@ -1,16 +1,2 @@
-# layout_navigasi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (41)](https://github.com/user-attachments/assets/34628f4c-59d5-4937-bad0-4cab0d9d0f4b)
+![Screenshot (42)](https://github.com/user-attachments/assets/a1a9b5a7-6ffc-452d-a6a4-3503dd41ec2d)
